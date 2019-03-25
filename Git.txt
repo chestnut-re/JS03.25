@@ -1,0 +1,18 @@
+//git status  查看当前仓库文件状态
+
+        //将工作区所有文件提交到暂存区
+            //git add.
+        
+        // git status
+            // 红色 说明当前文件在工作区
+            // 绿色 说明当前文件在暂存区
+        
+        //将暂存文件 全部提交到历史区
+        //git commit -m "添加提交的文件"
+
+        //将历史区文件 上传到远程仓库
+            //git push origin
+
+        //修改完文件
+            //git add .》》git commit -m"备注信息" 》》git push origin master
+            // push后有的需要你 输入用户名username  输入密码password
